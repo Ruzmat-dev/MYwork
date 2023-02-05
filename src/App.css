@@ -1,0 +1,22 @@
+.wrapper {
+  margin: auto;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 2%;
+}
+
+.card {
+  height: 550px;
+}
+
+.select {
+  height: 0%;
+  margin: 20px;
+  align-items: center;
+  margin-left: 10%;
+}
